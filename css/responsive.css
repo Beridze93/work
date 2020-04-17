@@ -1,0 +1,13 @@
+@media (max-width: 430px){
+	.login-using{
+		width: 200px;
+	}
+	/*.service-it{
+		flex-wrap: wrap;
+	}*/
+}
+@media (max-width: 400px){
+	.service-it{
+		flex-wrap: wrap;
+	}
+}
